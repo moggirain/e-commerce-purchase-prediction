@@ -7,3 +7,28 @@ The goal of analysis is to generate business insights on consumer revenue genera
 
 ## Procedure ## 
 ![lifecycle](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/lifecylce.png) 
+
+## Highlight ##
+
+1. Exploratory Analysis 
+![flow](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/flow.png) 
+
+The [code](../blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
+
+Insight gained from EDA: 
+
+Less transactions triggered by returning visitors
+- Incentives for returning visitors: e.g, promotions on holidays and weekend, social media notification, customer loyalty program 
+
+Low conversion rate in May holiday season 
+  - Marketing campaign strategy
+
+In-depth analysis on Region 2, Region 5 and Region 9  
+  - Identify the triggers  
+  - Growth strategy 
+
+Bounce Rate on Different Web pages
+  - Tracking mechanism on bounce rate and exit rate 
+
+2. 
+

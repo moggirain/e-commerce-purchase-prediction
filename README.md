@@ -6,4 +6,4 @@ Consumer behaviors offered insights into the demands of the market and web analy
 The goal of analysis is to generate business insights on consumer revenue generated behavior and predict whether the consumer visit leads to the purchase of items.
 
 ## Procedure ## 
-[image] 
+![lifecycle](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/lifecylce.png) 

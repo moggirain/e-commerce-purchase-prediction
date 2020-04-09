@@ -57,16 +57,14 @@ The [code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/mast
 ### Further Study ### 
 
 1. Better interpretation of results 
-   Soluton: Shap Values 
-   [SHapley Additive exPlanations](https://christophm.github.io/interpretable-ml-book/shap.html#shap-feature-importance) 
+   - Soluton: [SHapley Additive exPlanations](https://christophm.github.io/interpretable-ml-book/shap.html#shap-feature-importance) 
    
 2. Other hyperparameter tuning 
-   Solution: Bayes Optimization
-   [BO](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+   - Solution: [Bayes Optimization](https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
    
 3. Better Visualization 
-   Solution: Plotly Dash
-   [Plotly](https://dash-gallery.plotly.host/Portal/)
+  - Solution: 
+   [Plotly Dash](https://dash-gallery.plotly.host/Portal/)
    
 
 

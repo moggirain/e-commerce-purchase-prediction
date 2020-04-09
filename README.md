@@ -13,7 +13,7 @@ The goal of analysis is to generate business insights on consumer revenue genera
 ### Exploratory Analysis ###  
 ![flow](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/flow.png) 
 
-The [code](./blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
+The [code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
 
 Insight gained from EDA: 
 
@@ -29,9 +29,9 @@ Bounce Rate on Different Web pages
 
 ### Data Preprocessing ### 
 
-![flow](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/flow.png) 
+![flow](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/dataprocessing.png) 
 
-The[code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
+The [code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
 
 ### Modeling ### 
 
@@ -42,7 +42,7 @@ The[code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/maste
 
 #### Evaluation Metrics #### 
 
-![evaluation](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Evaluation Metric.png) 
+![evaluation](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Evaluation%20Metric.png) 
 
 #### Result ####
 

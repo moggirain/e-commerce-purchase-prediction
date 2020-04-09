@@ -46,11 +46,27 @@ The [code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/mast
 
 #### Result ####
 
+![result](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Baseline.png) 
+
 #### Model Comparision #### 
 ![comparison](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/ModelComparison.png) 
 
 #### Feature Importance ####
-
+![comparison](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/FeatureImportance.png)
 
 ### Further Study ### 
+
+1. Better interpretation of results 
+   Soluton: Shap Values 
+   [SHapley Additive exPlanations] (https://christophm.github.io/interpretable-ml-book/shap.html#shap-feature-importance) 
+   
+2. Other hyperparameter tuning 
+   Solution: Bayes Optimization
+   [BO] (https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f)
+   
+3. Better Visualization 
+   Solution: Plotly Dash
+   [BO] (https://dash-gallery.plotly.host/Portal/)
+   
+
 

@@ -34,7 +34,7 @@ Bounce Rate on Different Web pages
 The [code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
 
 ### Modeling ### 
-
+The [code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Modeling%20.ipynb)could be found here 
 
 #### Pipeline #### 
 

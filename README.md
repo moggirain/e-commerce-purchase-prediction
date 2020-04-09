@@ -29,25 +29,25 @@ Bounce Rate on Different Web pages
 
 ### Data Preprocessing ### 
 
-![flow](./blob/master/dataprocessing.png) 
+![flow](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/flow.png) 
 
-The[code](./blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
+The[code](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Online_Shopper_Intention_V4.09.ipynb) could be found here 
 
 ### Modeling ### 
 
 
 #### Pipeline #### 
 
-![](./blob/master/ModelingPipeline.png) 
+![](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/ModelingPipeline.png) 
 
 #### Evaluation Metrics #### 
 
-![evaluation](./blob/master/Evaluation Metric.png) 
+![evaluation](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/Evaluation Metric.png) 
 
 #### Result ####
 
 #### Model Comparision #### 
-![comparison](./blob/master/ModelComparison.png) 
+![comparison](https://github.com/moggirain/e-commerce-purchase-prediction/blob/master/ModelComparison.png) 
 
 #### Feature Importance ####
 
